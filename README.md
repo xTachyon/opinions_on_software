@@ -1,4 +1,4 @@
-# My opinions of software
+# My opinions on software
 Quite possible I missed something in some cases. But if I did, then the sin is the thing not being intuitive enough.
 
 B - BAD
@@ -12,6 +12,7 @@ G - GOOD
 #### G: The battery is so good. I don't understand how this is real laptop.
 #### G: The fingerprint works extremely well and is very convenient to use.
 #### G: Camera, mic, speakers are very good.
+#### G: Spotlight is pretty good in general.
 
 #### B: Minimizing applications triggers that animation that is annoying and takes too much time. Enabling Reduce Motion in Settings doesn't seem to do help. Update: switching to Scale Effect in Dock settings is slightly better, but not great.
 #### B: No easy way to do the equivalent of Win+1/2/3. Some extensions seem to be available.
