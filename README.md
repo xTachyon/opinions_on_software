@@ -43,3 +43,4 @@ Enter is rename. Go back is different than any other software I know and doesn't
 
 #### B: The size of the 3 circles for Close/Minimize/Maximize is too small. It's too much effort to pinpoint them exactly to click them. Also the fact that they change apperance when hovered looks bad to me. This wouldn't be a problem in general, but the keyboard shortcuts for Close/Maximize are completely different than the other systems, and I can't trust myself to do them properly.
 
+#### B: One monitor on a cable is pretty bad. Yes, the newer Mac Mini I think can do 2, and that's still bad. My dell does 3 that I know of. It's not 8k 500fps per screen, but it's good enough for me.
